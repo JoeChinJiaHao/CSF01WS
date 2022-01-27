@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1643255706955,
-  "index": "CSF04/index.html",
+  "timestamp": 1643256102984,
+  "index": "/CSF01WS/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "CSF04/favicon.ico",
-        "CSF04/index.html",
-        "CSF04/main.e8d304f5b4c5f7c9.js",
-        "CSF04/manifest.webmanifest",
-        "CSF04/polyfills.bd74edb7c2be3868.js",
-        "CSF04/runtime.4791b0261e782c2a.js",
-        "CSF04/styles.ef46db3751d8e999.css"
+        "/CSF01WS/favicon.ico",
+        "/CSF01WS/index.html",
+        "/CSF01WS/main.e8d304f5b4c5f7c9.js",
+        "/CSF01WS/manifest.webmanifest",
+        "/CSF01WS/polyfills.bd74edb7c2be3868.js",
+        "/CSF01WS/runtime.4791b0261e782c2a.js",
+        "/CSF01WS/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,39 +29,39 @@
         "ignoreVary": true
       },
       "urls": [
-        "CSF04/assets/cb.png",
-        "CSF04/assets/icons/icon-128x128.png",
-        "CSF04/assets/icons/icon-144x144.png",
-        "CSF04/assets/icons/icon-152x152.png",
-        "CSF04/assets/icons/icon-192x192.png",
-        "CSF04/assets/icons/icon-384x384.png",
-        "CSF04/assets/icons/icon-512x512.png",
-        "CSF04/assets/icons/icon-72x72.png",
-        "CSF04/assets/icons/icon-96x96.png",
-        "CSF04/assets/ocbc-og.jpg"
+        "/CSF01WS/assets/cb.png",
+        "/CSF01WS/assets/icons/icon-128x128.png",
+        "/CSF01WS/assets/icons/icon-144x144.png",
+        "/CSF01WS/assets/icons/icon-152x152.png",
+        "/CSF01WS/assets/icons/icon-192x192.png",
+        "/CSF01WS/assets/icons/icon-384x384.png",
+        "/CSF01WS/assets/icons/icon-512x512.png",
+        "/CSF01WS/assets/icons/icon-72x72.png",
+        "/CSF01WS/assets/icons/icon-96x96.png",
+        "/CSF01WS/assets/ocbc-og.jpg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "CSF04/assets/cb.png": "c45f7f5d6e180aff0e6224e9a49cd0c21712e3df",
-    "CSF04/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "CSF04/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "CSF04/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "CSF04/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "CSF04/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "CSF04/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "CSF04/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "CSF04/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "CSF04/assets/ocbc-og.jpg": "287a3710996e0892708702101979172fffcacbb2",
-    "CSF04/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "CSF04/index.html": "21517c721ad0e92bdec7f11d1a285486be16a786",
-    "CSF04/main.e8d304f5b4c5f7c9.js": "6b31d780328bf242f4e9367c97cc2f2f4af1da64",
-    "CSF04/manifest.webmanifest": "5953a0750901ff9e2c6be09e33da5d4b449a6172",
-    "CSF04/polyfills.bd74edb7c2be3868.js": "f214a464afc5f33393d5de4e7753710355f7f987",
-    "CSF04/runtime.4791b0261e782c2a.js": "7e5137a673786f8f79d2b3acce6239abcb2ef1ad",
-    "CSF04/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/CSF01WS/assets/cb.png": "c45f7f5d6e180aff0e6224e9a49cd0c21712e3df",
+    "/CSF01WS/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/CSF01WS/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/CSF01WS/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/CSF01WS/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/CSF01WS/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/CSF01WS/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/CSF01WS/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/CSF01WS/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/CSF01WS/assets/ocbc-og.jpg": "287a3710996e0892708702101979172fffcacbb2",
+    "/CSF01WS/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/CSF01WS/index.html": "6b19981d4b5e252ea8e3dcdbf8d09c95bf7efa8f",
+    "/CSF01WS/main.e8d304f5b4c5f7c9.js": "6b31d780328bf242f4e9367c97cc2f2f4af1da64",
+    "/CSF01WS/manifest.webmanifest": "5953a0750901ff9e2c6be09e33da5d4b449a6172",
+    "/CSF01WS/polyfills.bd74edb7c2be3868.js": "f214a464afc5f33393d5de4e7753710355f7f987",
+    "/CSF01WS/runtime.4791b0261e782c2a.js": "7e5137a673786f8f79d2b3acce6239abcb2ef1ad",
+    "/CSF01WS/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
